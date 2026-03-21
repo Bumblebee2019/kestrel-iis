@@ -2,10 +2,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 var app = builder.Build();
 
-// Root endpoint (fixes your issue)
 app.MapGet("/", () => "API is running");
 
-// Your existing endpoints
 app.MapGet("/plaintext", () =>
 {
     return "Plaintext";
