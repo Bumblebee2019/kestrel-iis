@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BenchmarkRunner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faac3e3746a36d620035d9bf76372e70bcb154f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c5d9c2739e708ecfccb0865c36509fda4f293d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("BenchmarkRunner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BenchmarkRunner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
